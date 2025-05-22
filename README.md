@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # DANIEL ALBERTO SALAZAR ERAZO
 
 ## Mis Redes
