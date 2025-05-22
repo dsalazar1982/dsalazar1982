@@ -4,7 +4,7 @@
 
 ## Mis Redes
 
-| [Linkedin] (https://co.linkedin.com/in/danielsalazarerazo) | [X] (https://twitter.com/dsalazar1982) | [WebSite] (https://opensed.wordpress.com/) |
+| [Linkedin](https://co.linkedin.com/in/danielsalazarerazo) | [X](https://twitter.com/dsalazar1982) | [WebSite](https://opensed.wordpress.com/) |
 
 
 
