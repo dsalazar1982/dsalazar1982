@@ -4,9 +4,11 @@
 Hi, soy Daniel Alberto Salazar, apasionado por la tecnologia y el desarrollo de software.
 
 ## HABILIDADES
--[] Git
--[] GitHub
--[] PHP
+-[x] Git
+
+-[x] GitHub
+
+-[x] PHP
 
 
 <!--
