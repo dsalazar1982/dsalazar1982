@@ -1,11 +1,9 @@
 # DANIEL ALBERTO SALAZAR ERAZO
 
+Hi, soy Daniel Alberto Salazar, apasionado por la tecnologia y el desarrollo de software.
+
 ## Mis Redes
-
--------------------------------------------------------------------------------------------------------------------------------------------------
 | [Linkedin](https://co.linkedin.com/in/danielsalazarerazo) | [X](https://twitter.com/dsalazar1982) | [WebSite](https://opensed.wordpress.com/) |
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 <!--
