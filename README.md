@@ -3,6 +3,10 @@
 
 Hi, soy Daniel Alberto Salazar, apasionado por la tecnologia y el desarrollo de software.
 
+## HABILIDADES
+-[]
+-[] 
+
 
 <!--
 **dsalazar1982/dsalazar1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
