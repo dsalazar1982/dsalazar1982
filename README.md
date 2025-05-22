@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# DANIEL ALBERTO SALAZAR ERAZO
+
+## Mis Redes
+
+| [Linkedin] (https://co.linkedin.com/in/danielsalazarerazo) | [X] (https://twitter.com/dsalazar1982) | [WebSite] (https://opensed.wordpress.com/) | 
+
 <!--
 **dsalazar1982/dsalazar1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
